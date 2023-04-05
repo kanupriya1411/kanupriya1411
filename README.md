@@ -15,7 +15,7 @@ I am a Student and a Front-end  Web Developer <img src="https://media.giphy.com/
 
 - :zap: In my free time, I solve problems on Leetcode and watch mystery thrillers.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kanupriya-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/Kanupriya1411)[![Gmail Badge](https://img.shields.io/badge/-Kanupriya-yellow?style=flat&logo=Gmail&logoColor=red)](kanupriya1411@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kanupriya-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/Kanupriya1411)[![Gmail Badge](https://img.shields.io/badge/-Kanupriya-yellow?style=flat&logo=Gmail&logoColor=red)](www.gmail.com/in/kanupriya1411@gmail.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LLNsGJo5akIbPNb7hz/giphy.gif" width="200"/>
